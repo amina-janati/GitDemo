@@ -12,6 +12,7 @@ public class HelloWorld {
 
     System.out.println("Hello, World! The current time is " + dtf.format(now)+"c'est juste moi!");
     System.out.println("Hi, c'est amina");
+  System.out.println("Hi, c'est janati");
 
   }
 
